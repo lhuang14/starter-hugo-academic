@@ -10,7 +10,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:lhuan45@lsu.edu
-  - icon: ai ai-google-scholar-square ai-3x
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=nVNxcW8AAAAJ
   - icon: linkedin
