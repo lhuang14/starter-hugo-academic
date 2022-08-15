@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: lhuan45@lsu.edu
+    link: mailto:lhuan45@lsu.edu
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=nVNxcW8AAAAJ
