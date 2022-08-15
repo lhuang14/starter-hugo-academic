@@ -38,7 +38,12 @@ header:
     show_day_night: false
     show_search: false
     highlight_active_link: true
-    color: minimal
+    design:
+      background:
+        color: 'navy'
+        # Text color (true=light, false=dark, or remove for the dynamic theme color). 
+        text_color_light: true
+
 
 # Site footer
 
