@@ -1,6 +1,6 @@
 ---
 title: Long Huang
-role: Professor of Artificial Intelligence
+role: mailto:lhua45@lsu.edu
 bio: My research interests include mobile sensing, mobile security and IoT.
 interests:
   - Mobile Sensing
