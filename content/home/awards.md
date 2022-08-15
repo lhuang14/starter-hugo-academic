@@ -13,9 +13,5 @@ title: Awards
 subtitle: ''
 
 content:
- 
-design:
-  # Choose a view for the listings:
-  view: citation
-  columns: '2'
+
 ---
