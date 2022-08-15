@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: 'Copyright © {year} Long Huang.'
+    notice: 'Copyright © {year} Long Huang'
 #    license:
 #      enable: true
 #      allow_derivatives: false
