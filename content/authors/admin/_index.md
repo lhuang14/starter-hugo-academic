@@ -21,15 +21,15 @@ organizations:
     url: https://www.lsu.edu
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD student in Computer Science
+      institution: Louisiana State University
+      year: ""
+    - course: MEng in Electrical Engineering
+      institution: Stevens Institute of Technology
+      year: 2019
+    - course: BEng in Electrical Engineering
+      institution: University of Electronic Science and Technology of China
+      year: 2015
 email: ""
 superuser: true
 highlight_name: true
