@@ -10,6 +10,7 @@ authors:
   - Chen Wang
   - Liying Li
   - Guodong Zhao
+publication: IEEE Internet of Things Journal
 draft: false
 featured: false
 image:
