@@ -7,8 +7,8 @@ authors:
   - Long Huang
   - Chen Wang
 doi: 10.1109/SP46214.2022.00053
-publication: 2022 IEEE Symposium on Security and Privacy
-publication_short: SP
+publication: 2022 IEEE Symposium on Security and Privacy (SP)
+publication_short: ""
 abstract: >-
   Biometrics have been widely applied as personally identifiable data for user
   authentication. However, existing bio- metric authentications are vulnerable
