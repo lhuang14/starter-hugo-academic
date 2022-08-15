@@ -1,0 +1,37 @@
+---
+title: "PCR-Auth: Solving Authentication Puzzle Challenge with Encoded Palm
+  Contact Response"
+publication_types:
+  - "1"
+authors:
+  - Long Huang
+  - Chen Wang
+doi: 10.1109/SP46214.2022.00053
+publication: 2022 IEEE Symposium on Security and Privacy
+publication_short: SP
+abstract: >-
+  Biometrics have been widely applied as personally identifiable data for user
+  authentication. However, existing bio- metric authentications are vulnerable
+  to biometric spoofing. One reason is that they are easily observable and
+  vulnerable to physical forgeries. Examples are the apparent surface patterns
+  of human bodies, such as fingerprints and faces. A more significant issue is
+  that existing authentication methods are entirely built upon biometric
+  features, which almost never change and could be obtained or learned by an
+  adversary such as human voices. To address this inherent security issue of
+  biometric authentications, we propose a novel acoustically extracted hand-grip
+  biometric, which is associated with every user’s hand geometry, body-fat
+  ratio, and gripping strength; It is implicit and available whenever they grip
+  a handheld device. Furthermore, we integrate a coding technique in the
+  biometric acquisition process, which encodes static biometrics into dynamic
+  biometric features to prevent data reuse. Additionally, this low-cost method
+  can be deployed on any handheld device that has a speaker and a microphone.
+
+  In particular, we develop a challenge-response biometric au- thentication system, which consists of a pair of biometric encoder and decoder. We encode the ultrasonic signal according to a challenge sequence and extract a distinct biometric code as the response for each session. We then decode the biometric code to verify the user by a convolutional neural network-based algorithm, which not only examines the coding correctness but also verifies the biometric features presented by each biometric digit. Furthermore, we investigate diverse acoustic attacks to our system, by respectively assuming an adversary could present the correct code, generate similar biometric features or successfully forge both. Extensive experiments on mobile devices show that our system achieves 97% accuracy to distinguish users and rejects 100% replay and synthesis attacks with 6-digit codes.
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+date: 2022-05-22T22:33:10.650Z
+---
