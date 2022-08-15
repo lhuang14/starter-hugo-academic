@@ -10,6 +10,7 @@ authors:
   - Chen Wang
   - Liying Li
   - Guodong Zhao
+doi: 10.1109/JIOT.2021.3121623
 publication: IEEE Internet of Things Journal
 draft: false
 featured: false
