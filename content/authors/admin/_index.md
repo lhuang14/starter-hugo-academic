@@ -5,7 +5,7 @@ bio: My research interests include mobile sensing, mobile security and IoT.
 interests:
   - Mobile Sensing
   - Mobile Security
-  - IoT
+  - Internet of Things
 social:
   - icon: envelope
     icon_pack: fas
