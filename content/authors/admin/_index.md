@@ -30,7 +30,7 @@ education:
     - course: BEng in Electrical Engineering
       institution: University of Electronic Science and Technology of China
       year: 2015
-email: ""
+email: lhuan45@lsu.edu
 superuser: true
 highlight_name: true
 ---
