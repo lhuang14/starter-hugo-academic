@@ -34,6 +34,6 @@ email: lhuan45@lsu.edu
 superuser: true
 highlight_name: true
 ---
-**Long Huang** is a Ph.D. student of computer science at Louisiana State University, under the supervision of {{< staticref "https://www.lsu.edu/eng/cse/people/faculty/wang.c.php" "newtab" >}}Dr. Chen Wang{{< /staticref >}}. His research interests include mobile sensing, mobile security and Internet of Things. 
+ I am a Ph.D. student of computer science at {{< staticref "https://www.lsu.edu" "newtab" >}}Louisiana State University{{< /staticref >}}, advised by {{< staticref "https://www.lsu.edu/eng/cse/people/faculty/wang.c.php" "newtab" >}}Dr. Chen Wang{{< /staticref >}}. His research interests include mobile sensing, mobile security and Internet of Things. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Long_Huang.pdf" "newtab" >}}CV{{< /staticref >}}.
