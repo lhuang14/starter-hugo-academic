@@ -5,7 +5,11 @@ draft: false
 featured: false
 tags:
   - Mobile Sensing
-links: []
+links:
+  - url: https://www.youtube.com/watch?v=A-Kr1AE5zAw
+    name: Video
+    icon_pack: fab
+    icon: YouTube
 image:
   filename: featured
   focal_point: Smart
