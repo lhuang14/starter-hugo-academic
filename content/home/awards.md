@@ -32,10 +32,16 @@ design:
   in the 27th Annual International Conference on Mobile Computing and Networking.
 </p>
 <p>
-<i class="fa-solid fa-plane"></i>
-<b>Student Travel Grant</b> in the 43rd IEEE Symposium on Security and Privacy.
+  <a href=https://www.ieee-security.org/TC/SP2022/ target=_blank>
+    <i class="fa-solid fa-plane"></i>
+    Student Travel Grant
+  </a>
+  in the 43rd IEEE Symposium on Security and Privacy.
 </p>
 <p>
-<i class="fa-solid fa-plane"></i>
-<b>Gary Marsden Travel Award</b> in 2021 ACM International Conference on Pervasive and Ubiquitous Computing.
+  <a href=https://sigchi.org/awards/gary-marsden-travel-awards/ target=_blank>
+    <i class="fa-solid fa-plane"></i>
+    Gary Marsden Travel Award
+  </a>
+  in 2021 ACM International Conference on Pervasive and Ubiquitous Computing.
 </p>
