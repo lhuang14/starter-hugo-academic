@@ -17,4 +17,7 @@ design:
   columns: '2'
 ---
 
-<p class="fa-li fas fa-graduation-cap">Best Paper Award</p>
+<p>
+<i class="fa-li fas fa-graduation-cap"></i>
+Best Paper Award
+</p>
