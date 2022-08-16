@@ -7,7 +7,7 @@ tags:
   - Mobile Sensing
 links:
   - url: https://www.youtube.com/watch?v=A-Kr1AE5zAw
-    name: Video
+    name: ""
     icon_pack: fab
     icon: youtube
 image:
