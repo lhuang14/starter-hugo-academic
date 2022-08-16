@@ -19,9 +19,7 @@ design:
 <ul>
   <li>
     <i class="fa-li fas fa-graduation-cap"></i>
-    <div class=description>
       <p class=course>PhD student in Computer Science, 2019 - Present</p>
       <p class=institution>Louisiana State University</p>
-    </div>
   </li>
 </ul>
