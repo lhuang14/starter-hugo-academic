@@ -1,5 +1,5 @@
 ---
-title: Challenge-response Biometric Authentication for Handheld Device
+title: Challenge-response Biometric Authentication for Handheld Devices
 date: 2022-05-22T16:02:03.524Z
 draft: false
 featured: false
