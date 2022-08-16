@@ -1,6 +1,6 @@
 ---
 role: ""
-avatar_filename: avatar.png
+avatar_filename: ""
 bio: My research interests include mobile sensing, mobile security and IoT.
 interests:
   - Mobile Sensing
