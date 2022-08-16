@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -12,10 +12,7 @@ weight: 50
 title: Awards
 subtitle: ''
 
-content:
-
 design:
-  # Choose a view for the listings:
-  view: citation
-  columns: '2'
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
 ---
