@@ -25,8 +25,11 @@ design:
   in the IEEE International Workshop on Wireless Sensor, Robot and UAV Networks (IEEE WISARN), 2021.
 </p>
 <p>
-<i class="fa-solid fa-plane"></i>
-<b>Student Travel Grant</b> in the 27th Annual International Conference on Mobile Computing and Networking.
+  <a href=https://www.sigmobile.org/mobicom/2021/ target=_blank>
+    <i class="fa-solid fa-plane"></i>
+    Student Travel Grant
+  </a>
+  in the 27th Annual International Conference on Mobile Computing and Networking.
 </p>
 <p>
 <i class="fa-solid fa-plane"></i>
