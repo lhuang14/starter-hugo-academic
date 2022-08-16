@@ -1,6 +1,6 @@
 ---
 title: Gripping Hand Verification Using Media Sounds
-date: 2022-08-16T05:10:39.875Z
+date: 2021-10-25T05:10:39.875Z
 draft: false
 featured: false
 tags:
