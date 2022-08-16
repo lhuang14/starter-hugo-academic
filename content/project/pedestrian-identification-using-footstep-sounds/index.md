@@ -1,5 +1,5 @@
 ---
-title: Pedestrian Identification using Footstep Sounds
+title: Pedestrian Identification Using Footstep Sounds
 date: 2021-12-30T16:28:52.081Z
 draft: false
 featured: false
