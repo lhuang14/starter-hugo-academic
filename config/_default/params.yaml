@@ -43,6 +43,8 @@ header:
 # Site footer
 
 footer:
+  context:
+    <a href="https://clustrmaps.com/site/1bpw3"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Gnom8eBY0nriEvlDIylGfw9tV7_Jqhgpy-J79HpgS0Q&cl=ffffff" /></a>
   copyright:
     notice: 'Copyright © {year} Long Huang'
 #    license:
