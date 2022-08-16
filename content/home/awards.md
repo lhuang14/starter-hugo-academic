@@ -45,4 +45,3 @@ design:
   </a>
   in 2021 ACM International Conference on Pervasive and Ubiquitous Computing.
 </p>
-<a href="https://clustrmaps.com/site/1bpw3"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Gnom8eBY0nriEvlDIylGfw9tV7_Jqhgpy-J79HpgS0Q&cl=ffffff" /></a>
