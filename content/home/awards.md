@@ -16,10 +16,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
 ---
-<ul>
-  <li>
-    <i class="fa-li fas fa-graduation-cap"></i>
-      <p class=course>PhD student in Computer Science, 2019 - Present</p>
-      <p class=institution>Louisiana State University</p>
-  </li>
-</ul>
+
+<i class="fa-li fas fa-graduation-cap"></i>
+<p class=course>PhD student in Computer Science, 2019 - Present</p>
+<p class=institution>Louisiana State University</p>
