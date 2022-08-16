@@ -21,3 +21,15 @@ design:
 <i class="fa-solid fa-award"></i>
 <b>Best Paper Award</b> in the IEEE International Workshop on Wireless Sensor, Robot and UAV Networks (IEEE WISARN), 2021.
 </p>
+<p>
+<i class="fa-solid fa-plane"></i>
+<b>Student Travel Grant</b> in the 27th Annual International Conference on Mobile Computing and Networking.
+</p>
+<p>
+<i class="fa-solid fa-plane"></i>
+<b>Student Travel Grant</b> in the 43rd IEEE Symposium on Security and Privacy.
+</p>
+<p>
+<i class="fa-solid fa-plane"></i>
+<b>Gary Marsden Travel Award</b> in 2021 ACM International Conference on Pervasive and Ubiquitous Computing.
+</p>
