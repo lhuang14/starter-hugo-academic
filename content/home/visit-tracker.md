@@ -5,9 +5,9 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 title: My New Section
 subtitle:
-weight: 10  # section position on page
+weight: 60  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-<a href="https://clustrmaps.com/site/1bpw3"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Gnom8eBY0nriEvlDIylGfw9tV7_Jqhgpy-J79HpgS0Q&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1bpw3"  title="Visit tracker" text-align:center><img src="//www.clustrmaps.com/map_v2.png?d=Gnom8eBY0nriEvlDIylGfw9tV7_Jqhgpy-J79HpgS0Q&cl=ffffff" /></a>
