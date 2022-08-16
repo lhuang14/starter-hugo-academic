@@ -10,7 +10,7 @@ authors:
   - Chen Wang
   - Liying Li
   - Guodong Zhao
-doi: 10.1109/JIOT.2021.3121623
+doi: ""
 publication: IEEE Internet of Things Journal
 abstract: Motion-controlled robotic arms allow a user to interact with a remote
   real world without physically reaching it. By connecting cyberspace to the
