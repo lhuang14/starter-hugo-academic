@@ -1,6 +1,6 @@
 ---
 title: User Verification for Motion-controlled Robotic Arm Systems
-date: 2022-08-16T15:15:13.284Z
+date: 2021-10-20T15:15:13.284Z
 draft: false
 featured: false
 tags:
