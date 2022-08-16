@@ -18,6 +18,6 @@ design:
 ---
 
 <p>
-<i class="fa-li fas fa-graduation-cap"></i>
+<i class="fa-solid fa-award"></i>
 <b>Best Paper Award</b> in the IEEE International Workshop on Wireless Sensor, Robot and UAV Networks (IEEE WISARN), 2021.
 </p>
