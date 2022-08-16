@@ -1,6 +1,6 @@
 ---
-title: Long Huang
 role: ""
+avatar_filename: img_2578.jpg
 bio: My research interests include mobile sensing, mobile security and IoT.
 interests:
   - Mobile Sensing
@@ -30,9 +30,10 @@ education:
     - course: BEng in Electrical Engineering
       institution: University of Electronic Science and Technology of China
       year: 2015
-email: lhuan45@lsu.edu
 superuser: true
 highlight_name: true
+title: Long Huang
+email: lhuan45@lsu.edu
 ---
  I am a Ph.D. student of computer science at {{< staticref "https://www.lsu.edu" "newtab" >}}Louisiana State University{{< /staticref >}}, advised by {{< staticref "https://www.lsu.edu/eng/cse/people/faculty/wang.c.php" "newtab" >}}Dr. Chen Wang{{< /staticref >}}. My research interests include **Mobile Sensing**, **Mobile Security** and **Internet of Things**. Before joining LSU, I got my master degree from {{< staticref "https://www.stevens.edu" "newtab" >}}Stevens Insititute of Technology{{< /staticref >}} and my bachelor degree from {{< staticref "https://en.uestc.edu.cn" "newtab" >}}University of Electronic Science and Technology of China{{< /staticref >}}.
 
