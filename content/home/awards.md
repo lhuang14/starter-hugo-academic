@@ -19,7 +19,7 @@ design:
 
 <p>
 <i class="fa-solid fa-award"></i>
-<b>Best Paper Award</b> in the IEEE International Workshop on Wireless Sensor, Robot and UAV Networks (IEEE WISARN), 2021.
+<a href=https://www.lsu.edu target=_blank>Louisiana State University</a> in the IEEE International Workshop on Wireless Sensor, Robot and UAV Networks (IEEE WISARN), 2021.
 </p>
 <p>
 <i class="fa-solid fa-plane"></i>
