@@ -17,6 +17,4 @@ design:
   columns: '2'
 ---
 
-<i class="fa-li fas fa-graduation-cap"></i>
-<p class=course>PhD student in Computer Science, 2019 - Present</p>
-<p class=institution>Louisiana State University</p>
+<p class="fa-li fas fa-graduation-cap">Best Paper Award</p>
