@@ -43,5 +43,5 @@ design:
     <i class="fa-solid fa-plane"></i>
     Gary Marsden Travel Award
   </a>
-  in 2021 ACM International Conference on Pervasive and Ubiquitous Computing.
+  in 2022 ACM International Conference on Pervasive and Ubiquitous Computing.
 </p>
