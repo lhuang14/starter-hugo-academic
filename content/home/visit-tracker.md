@@ -10,4 +10,4 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-<a href="https://clustrmaps.com/site/1bpw3"  title="Visit tracker"><center><img src="//www.clustrmaps.com/map_v2.png?d=Gnom8eBY0nriEvlDIylGfw9tV7_Jqhgpy-J79HpgS0Q&cl=ffffff" /></center></a>
+<a href="https://clustrmaps.com/site/1bpw3"  title="Visit tracker"><center><img src="//www.clustrmaps.com/map_v2.png?d=Gnom8eBY0nriEvlDIylGfw9tV7_Jqhgpy-J79HpgS0Q&cl=ffffff" style="width: 200%; height: 200%;"/></center></a>
