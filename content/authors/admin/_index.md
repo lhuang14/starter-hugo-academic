@@ -3,8 +3,9 @@ role: ""
 avatar_filename: avatar.jpg
 bio: My research interests include mobile sensing, mobile security and IoT.
 interests:
-  - Mobile Sensing
-  - Mobile Security
+  - Sensing
+  - Security
+  - Ubiquitous Computing
   - Internet of Things
 social:
   - icon: envelope
