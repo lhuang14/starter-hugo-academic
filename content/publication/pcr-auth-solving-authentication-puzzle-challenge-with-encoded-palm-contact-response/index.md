@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Long Huang
   - Chen Wang
-doi: "10.1109/SP46214.2022.00053"
+doi: "https://doi.org/10.1109/SP46214.2022.00053"
 publication: 2022 IEEE Symposium on Security and Privacy (SP)
 publication_short: ""
 abstract: >-
