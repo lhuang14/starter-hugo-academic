@@ -6,7 +6,7 @@ authors:
   - Ruxin Wang
   - Long Huang
   - Chen Wang
-doi: "https://doi.org/10.1109/SP46215.2023.00127"
+doi: "https://doi.org/10.1109/SP46215.2023.00127](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00127"
 publication: 2023 IEEE Symposium on Security and Privacy (SP)
 publication_short: ""
 abstract: While Virtual Reality (VR) applications are becoming increasingly common,
