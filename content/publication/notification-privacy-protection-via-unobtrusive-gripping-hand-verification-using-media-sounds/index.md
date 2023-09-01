@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Long Huang
   - Chen Wang
-doi: "10.1145/3447993.3483277"
+doi: "https://doi.org/10.1145/3447993.3483277"
 publication: Proceedings of the 27th Annual International Conference on Mobile
   Computing and Networking
 publication_short: ""
