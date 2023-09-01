@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Long Huang
   - Chen Wang
-doi: "10.1145/3494963"
+doi: "https://doi.org/10.1145/3494963"
 publication: Proceedings of the ACM on Interactive, Mobile, Wearable and
   Ubiquitous Technologies
 abstract: >-
