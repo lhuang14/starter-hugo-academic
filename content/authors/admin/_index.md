@@ -22,7 +22,7 @@ organizations:
     url: https://www.lsu.edu
 education:
   courses:
-    - course: PhD student in Computer Science, 2019 - Present
+    - course: PhD Student in Computer Science, 2019 - Present
       institution: Louisiana State University
       year: ""
     - course: MEng in Electrical Engineering
